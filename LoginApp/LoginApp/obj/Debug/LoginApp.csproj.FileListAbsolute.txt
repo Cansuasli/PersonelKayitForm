@@ -1,0 +1,12 @@
+c:\users\cspr\documents\visual studio 2013\Projects\LoginApp\LoginApp\bin\Debug\LoginApp.exe.config
+c:\users\cspr\documents\visual studio 2013\Projects\LoginApp\LoginApp\bin\Debug\LoginApp.exe
+c:\users\cspr\documents\visual studio 2013\Projects\LoginApp\LoginApp\bin\Debug\LoginApp.pdb
+c:\users\cspr\documents\visual studio 2013\Projects\LoginApp\LoginApp\obj\Debug\LoginApp.csprojResolveAssemblyReference.cache
+c:\users\cspr\documents\visual studio 2013\Projects\LoginApp\LoginApp\obj\Debug\LoginApp.BilgiGirisi.resources
+c:\users\cspr\documents\visual studio 2013\Projects\LoginApp\LoginApp\obj\Debug\LoginApp.KullaniciGirisi.resources
+c:\users\cspr\documents\visual studio 2013\Projects\LoginApp\LoginApp\obj\Debug\LoginApp.Properties.Resources.resources
+c:\users\cspr\documents\visual studio 2013\Projects\LoginApp\LoginApp\obj\Debug\LoginApp.csproj.GenerateResource.Cache
+c:\users\cspr\documents\visual studio 2013\Projects\LoginApp\LoginApp\obj\Debug\LoginApp.exe
+c:\users\cspr\documents\visual studio 2013\Projects\LoginApp\LoginApp\obj\Debug\LoginApp.pdb
+c:\users\cspr\documents\visual studio 2013\Projects\LoginApp\LoginApp\bin\Debug\Newtonsoft.Json.dll
+c:\users\cspr\documents\visual studio 2013\Projects\LoginApp\LoginApp\bin\Debug\Newtonsoft.Json.xml
